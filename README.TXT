@@ -27,7 +27,7 @@ Method 1: Using IDE
 
 Method 2: Using Command Prompt / Terminal
 * A Java Version 17 is required.
-* Two text files are required to read the list of URLs and the Words.(Sample files provided)
+* Two text files are required to read the list of URLs and the Words.(Under Sample files Folder)
 * These files should be named URLs.txt and Words.txt under C:/
 * Download the jar file provided.
 * Open the terminal at the same location of the .jar file 
